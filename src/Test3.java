@@ -1,11 +1,11 @@
 public class Test3 {
     public  static  void  main(String[] agr)
     {
-        // paratorized constructor
-        Test3 t3 = new Test3("info");
+        // parameterized constructor
+        Test3 t3 = new Test3("name");
     }
-    // paramertorize constructor
-    Test3(String info){
+    //  parameterized constructor
+    Test3(String name){
         System.out.println("Name : Luqman");
         int age = 26;
         int pho = 123;
